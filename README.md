@@ -4,9 +4,9 @@
 - 📫 You can reach me via my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
 
 <div style="display:flex; flex-direction:row; gap:1.12rem; background:green; border:1px solid; border-radius: 1rem;" className="acheivements">
-  <a href="https://www.hackerrank.com/certificates/111852cebf7a"><img width="35%" src="BasicJava.JPG" /></a>
-  <a href="https://www.hackerrank.com/certificates/b8d9d237c58b"><img width="35%" src="BasicCSharp.JPG" /></a>
-  <a href="https://github.com/Waynium/JPMorgan-Tech-Task3"><img width="35%" src="JPMorgan Certificate.png" /></a>
+  <a href="https://www.hackerrank.com/certificates/111852cebf7a"><img width="30% src="BasicJava.JPG" /></a>
+  <a href="https://www.hackerrank.com/certificates/b8d9d237c58b"><img width="30% src="BasicCSharp.JPG" /></a>
+  <a href="https://github.com/Waynium/JPMorgan-Tech-Task3"><img width="30% src="JPMorgan Certificate.png" /></a>
 </div>
 
 
