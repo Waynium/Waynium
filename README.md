@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, Front-end development to be precise
 - 🌱 I’m currently in doing BSc degree in Computer Science 
 - 📫 You can reach me via my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
-<h3 style="align-items:center">My Acheivements</h3>
+<h3 style="align-items:center">Hackerrank Certificates</h3>
 <div style="style.css" className="acheivements">
   <a href="https://www.hackerrank.com/certificates/111852cebf7a"><img width="30%" src="BasicJava.JPG" /></a>
   <a href="https://www.hackerrank.com/certificates/b8d9d237c58b"><img width="30%" src="BasicCSharp.JPG" /></a>
