@@ -5,7 +5,7 @@
 <html>
 <body>
 <h3 style="align-items:center">Hackerrank Certificates</h3>
-<div style="style.css" className="acheivements">
+<div style="display:flex; flex-direction:row; gap:1.5rem; background:green; border:1px solid transparent; border-radius:20%;" className="acheivements">
   <a href="https://www.hackerrank.com/certificates/111852cebf7a"><img width="30%" src="BasicJava.JPG" ></a>
   <a href="https://www.hackerrank.com/certificates/b8d9d237c58b"><img width="30%" src="BasicCSharp.JPG" ></a>
   <a href="https://github.com/Waynium/JPMorgan-Tech-Task3"><img width="31.85%" src="JPMorgan Certificate.png" ></a>
