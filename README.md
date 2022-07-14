@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software Engineering, Front-end development to be precise
 - 🌱 I’m currently in doing BSc degree in Computer Science 
 - 📫 You can reach me via my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
-<html>
-<body>
+
 <div id="contact" style="style.css">
     <h5>Let's work together</h5>
     <h2>Contact Me</h2>
