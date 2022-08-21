@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Waynium
-- 👀 I’m interested in Software Engineering, Front-end development to be precise
-- 🌱 I’m currently in doing BSc degree in Computer Science 
-- 📫 You can reach me via my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
+- 👀 I’m a Full-stack Web Developer in the making 🤌
+- 🌱 I’m currently in doing BSc degree in Computer Science and Computer Engineering
+- 😎 My friends call me Undertaker
+- 📫 Check out my cool side projects on my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
 
 <div id="contact" style="style.css">
     <h5>Let's work together</h5>
