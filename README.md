@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waynium
-- 👀 I’m a Developer at night. 
+- 👀 I’m a Web Developer in the making 
 - 🌱 I’m currently in doing BSc degree in Computer Science and Computer Engineering
 - 😎 My friends call me Star, and now that's my second name
 - 📫 Check out my cool side projects on my Portfolio Website, <a href="https://wandilenyembe.netlify.app/">here</a>
