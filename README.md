@@ -56,5 +56,5 @@ I work across the stack, backend, cloud infrastructure, and frontend; while ment
 - Driving delivery excellence through leadership and innovation
 
 ## 📫 Connect
-- Portfolio: https://wandilen.netlify.app/
+- Portfolio: https://wandile.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/wandile-nyembe-a69bb31b8/
