@@ -58,8 +58,7 @@ I work across the stack, backend, cloud infrastructure, and frontend; while ment
 - Mentored junior engineers, fostering collaboration and technical excellence
 
 ## 📈 Current Focus
-- Expanding expertise in Palantir Foundry
-- Building production‑grade solutions with long‑term scalability
+- Upskilling in fin-techh production‑grade solutions with long‑term scalability
 - Driving delivery excellence through leadership and innovation
 
 ## 📫 Connect
