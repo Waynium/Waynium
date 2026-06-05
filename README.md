@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Wandile Nyembe (@Waynium)
 
-🎓 B.Sc in Computer Science & Computer Engineering  
+🎓 B.Sc in Computer Science & Computer Engineering at UCT
 🌍 Cape Town, South Africa  
 💻 Passionate Software Engineer building scalable, cloud‑native applications  
 📫 [Portfolio Website](https://wandile.netlify.app/)  
