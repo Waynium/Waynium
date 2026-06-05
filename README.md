@@ -3,7 +3,7 @@
 🎓 B.Sc in Computer Science & Computer Engineering  
 🌍 Cape Town, South Africa  
 💻 Passionate Software Engineer building scalable, cloud‑native applications  
-📫 [Portfolio Website](https://wandilen.netlify.app/)  
+📫 [Portfolio Website](https://wandile.netlify.app/)  
 
 
 ## 🚀 About Me
@@ -14,10 +14,17 @@ I work across the stack, backend, cloud infrastructure, and frontend; while ment
 ## 🧠 Tech Stack
 
 ### 🧩 Programming Languages
+### 🧩 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### 🧱 Frameworks & Libraries
