@@ -1,9 +1,9 @@
 # 👋 Hey there, I’m Wandile Nyembe (@Waynium)
 
-🎓 B.Sc in Computer Science & Computer Engineering at UCT
-🌍 Cape Town, South Africa  
-💻 Passionate Software Engineer building scalable, cloud‑native applications  
-📫 [Portfolio Website](https://wandile.netlify.app/)  
+- 🎓 B.Sc in Computer Science & Computer Engineering at UCT
+- 🌍 Cape Town, South Africa  
+- 💻 Passionate Software Engineer building scalable, cloud‑native applications  
+- 📫 [Portfolio Website](https://wandile.netlify.app/)  
 
 
 ## 🚀 About Me
@@ -13,7 +13,6 @@ I work across the stack, backend, cloud infrastructure, and frontend; while ment
 
 ## 🧠 Tech Stack
 
-### 🧩 Programming Languages
 ### 🧩 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
